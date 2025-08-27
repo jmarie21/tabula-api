@@ -1,0 +1,6 @@
+@tabula_be_dotnet9_HostAddress = http://localhost:5265
+
+GET {{tabula_be_dotnet9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
